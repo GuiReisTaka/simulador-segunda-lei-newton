@@ -2,7 +2,7 @@
 
 **Atividade de Programação — Leis de Newton e Aplicações**
 Mecânica e Física Moderna — Ciência da Computação
-Grupo: [nomes dos integrantes do grupo]
+Grupo: Guilherme Takahashi, Erick de Paula, Pedro Ulrich
 
 Simulação com interface gráfica (matplotlib.widgets) de dois dos três sistemas propostos
 no enunciado (o grupo optou pelos dois abaixo, como o enunciado permite escolher 2 de 3):

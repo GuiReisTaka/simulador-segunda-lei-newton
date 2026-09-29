@@ -51,4 +51,3 @@ python interface.py
 | `teste_fisica.py` | Validação: as fórmulas satisfazem a 2ª Lei de Newton (`python teste_fisica.py`) |
 | `interface.py` | Interface gráfica: menu, sliders, animação |
 | `simulacao.ipynb` | Notebook que abre a simulação no Colab |
-| `relatorio_ADO2.pdf` | Relatório: equações, validação, comparação dos 95% e aplicações reais |
